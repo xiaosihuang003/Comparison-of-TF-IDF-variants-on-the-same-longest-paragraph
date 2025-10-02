@@ -1,0 +1,21 @@
+Option C: Augmented TF + IDF normalized by max
+bed	0.734071
+room	0.586276
+rooms	0.572461
+night	0.475300
+just	0.410933
+like	0.382192
+sense	0.333333
+remained	0.333333
+moving	0.333333
+wasted	0.333333
+cat	0.333333
+worry	0.319518
+lie	0.319518
+doorway	0.319518
+spider	0.308802
+remembered	0.308802
+pleasant	0.308802
+shut	0.300046
+spot	0.300046
+sprang	0.300046

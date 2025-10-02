@@ -1,0 +1,21 @@
+Option B: log(TF) + Smoothed log IDF (no vector norm)
+bed	10.692894
+rooms	10.091528
+room	8.540027
+night	8.378738
+just	7.244063
+sense	6.941048
+remained	6.941048
+moving	6.941048
+wasted	6.941048
+cat	6.941048
+like	6.737401
+lie	6.653366
+worry	6.653366
+doorway	6.653366
+remembered	6.430222
+pleasant	6.430222
+spider	6.430222
+sprang	6.247901
+shut	6.247901
+spot	6.247901

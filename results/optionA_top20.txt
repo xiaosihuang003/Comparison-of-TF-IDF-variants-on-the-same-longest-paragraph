@@ -1,0 +1,21 @@
+Option A: L2-normalized TF + Smoothed log IDF
+bed	0.317008
+room	0.253183
+rooms	0.247217
+night	0.205258
+just	0.177461
+like	0.165049
+sense	0.143950
+remained	0.143950
+moving	0.143950
+wasted	0.143950
+cat	0.143950
+worry	0.137983
+lie	0.137983
+doorway	0.137983
+spider	0.133356
+remembered	0.133356
+pleasant	0.133356
+shut	0.129575
+spot	0.129575
+sprang	0.129575
